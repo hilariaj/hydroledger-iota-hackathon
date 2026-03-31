@@ -67,7 +67,7 @@ HydroLedger introduces:
 ![Generate Proof 2](./screenshots/GerateProof 2.png)
 
 ### 📄 Proof Result
-![Proof Result](./screenshots/ProofResult.png)
+![Proof Result](./screenshots/Proof Result.png)
 
 ### 🔍 Verify Proof
 ![Verify](./screenshots/Verify.png)
