@@ -63,11 +63,11 @@ HydroLedger introduces:
 ![Dashboard](./screenshots/Dashboard.png)
 
 ### ⚡ Generate Proof
-![Generate Proof](./screenshots/GerateProof 1.png)
-![Generate Proof 2](./screenshots/GerateProof 2.png)
+![Generate Proof](./screenshots/GerateProof-1.png)
+![Generate Proof 2](./screenshots/GerateProof-2.png)
 
 ### 📄 Proof Result
-![Proof Result](./screenshots/Proof Result.png)
+![Proof Result](./screenshots/ProofResult.png)
 
 ### 🔍 Verify Proof
 ![Verify](./screenshots/Verify.png)
