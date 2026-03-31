@@ -1,0 +1,200 @@
+[
+  {
+    "proofId": "PROOF-20260331-A3C5",
+    "certificateNumber": "CERT-2026-261889",
+    "farmName": "FarmTech",
+    "meterId": "MTR-2026-789",
+    "timestamp": "2026-02-25T01:00:00.000Z",
+    "waterUsage": 9700,
+    "cropType": "Rice",
+    "region": "East Plains",
+    "normalizedPayload": {
+      "farmName": "FarmTech",
+      "meterId": "MTR-2026-789",
+      "timestamp": "2026-02-25T01:00:00.000Z",
+      "waterUsage": 9700,
+      "cropType": "Rice",
+      "region": "East Plains"
+    },
+    "hash": "734fa17c06c239b0b916b274007253ad7c34a711ece4233f47831507dff35868",
+    "status": "anchored",
+    "iotaAnchorReference": "IOTA-1774989909544-9YTGYISI",
+    "createdAt": "2026-03-31T20:45:09.482Z"
+  },
+  {
+    "proofId": "PROOF-20260331-6B09",
+    "certificateNumber": "CERT-2026-495706",
+    "farmName": "TerraNova Agriculture",
+    "meterId": "MTR-2026-114",
+    "timestamp": "2025-01-31T03:30:00.000Z",
+    "waterUsage": 78000,
+    "cropType": "Vegetables",
+    "region": "East Plains",
+    "normalizedPayload": {
+      "farmName": "TerraNova Agriculture",
+      "meterId": "MTR-2026-114",
+      "timestamp": "2025-01-31T03:30:00.000Z",
+      "waterUsage": 78000,
+      "cropType": "Vegetables",
+      "region": "East Plains"
+    },
+    "hash": "caccaef6af04e990bbf256d1f4dcb13af0466374af69768919db6daa17a789c1",
+    "status": "anchored",
+    "iotaAnchorReference": "IOTA-1774989061742-849W9K78",
+    "createdAt": "2026-03-31T20:31:01.586Z"
+  },
+  {
+    "proofId": "PROOF-20260331-E8B4",
+    "certificateNumber": "CERT-2026-756999",
+    "farmName": "AgroTeck",
+    "meterId": "MTR-2023-249",
+    "timestamp": "2025-05-15T01:30:00.000Z",
+    "waterUsage": 45200,
+    "cropType": "Corn",
+    "region": "West Highlands",
+    "normalizedPayload": {
+      "farmName": "AgroTeck",
+      "meterId": "MTR-2023-249",
+      "timestamp": "2025-05-15T01:30:00.000Z",
+      "waterUsage": 45200,
+      "cropType": "Corn",
+      "region": "West Highlands"
+    },
+    "hash": "e580796868f440bcee1bba5a12a1d0ced25057fb19d60a6cbe8804a896d9bfa0",
+    "status": "anchored",
+    "iotaAnchorReference": "IOTA-1774988768845-HBRVLLFD",
+    "createdAt": "2026-03-31T20:26:08.808Z"
+  },
+  {
+    "proofId": "PROOF-20260331-D220",
+    "certificateNumber": "CERT-2026-607034",
+    "farmName": "EcoFarm Solutions",
+    "meterId": "MTR-438-244",
+    "timestamp": "2026-03-31T16:44:00.000Z",
+    "waterUsage": 98000,
+    "cropType": "Sugarcane",
+    "region": "East Plains",
+    "normalizedPayload": {
+      "farmName": "EcoFarm Solutions",
+      "meterId": "MTR-438-244",
+      "timestamp": "2026-03-31T16:44:00.000Z",
+      "waterUsage": 98000,
+      "cropType": "Sugarcane",
+      "region": "East Plains"
+    },
+    "hash": "a74207bb85cd9835f04ff602f22d5defddbca5dac52941ba01243199a96494bf",
+    "status": "anchored",
+    "iotaAnchorReference": "IOTA-1774988444881-T6WBKBWS",
+    "createdAt": "2026-03-31T20:20:44.769Z"
+  },
+  {
+    "proofId": "PROOF-20260331-CD37",
+    "certificateNumber": "CERT-2026-490290",
+    "farmName": "Marco Lima",
+    "meterId": "MTR-5985-78522",
+    "timestamp": "2024-02-20T09:25:00.000Z",
+    "waterUsage": 3055500,
+    "cropType": "Sugarcane",
+    "region": "West Highlands",
+    "normalizedPayload": {
+      "farmName": "Marco Lima",
+      "meterId": "MTR-5985-78522",
+      "timestamp": "2024-02-20T09:25:00.000Z",
+      "waterUsage": 3055500,
+      "cropType": "Sugarcane",
+      "region": "West Highlands"
+    },
+    "hash": "bba72d0acc2e95f50d891f78e8b7b3f25defbb32e93c6fb1fc7f877b2d93a6c1",
+    "status": "anchored",
+    "iotaAnchorReference": "IOTA-1774982854274-FPIGEL79",
+    "createdAt": "2026-03-31T18:47:34.178Z"
+  },
+  {
+    "proofId": "PROOF-20260331-F1C2",
+    "certificateNumber": "CERT-2026-479488",
+    "farmName": "Edward Joseph",
+    "meterId": "MTR-VIC-829-456",
+    "timestamp": "2025-10-08T09:00:00.000Z",
+    "waterUsage": 300000,
+    "cropType": "Cotton",
+    "region": "West Highlands",
+    "normalizedPayload": {
+      "farmName": "Edward Joseph",
+      "meterId": "MTR-VIC-829-456",
+      "timestamp": "2025-10-08T09:00:00.000Z",
+      "waterUsage": 300000,
+      "cropType": "Cotton",
+      "region": "West Highlands"
+    },
+    "hash": "9599b801f2e06a719c621283ebaafce6039984583dca6c231657159de6759881",
+    "status": "anchored",
+    "iotaAnchorReference": "IOTA-1774982012098-W8JAZ3KD",
+    "createdAt": "2026-03-31T18:33:32.052Z"
+  },
+  {
+    "proofId": "PROOF-20260331-6843",
+    "certificateNumber": "CERT-2026-587960",
+    "farmName": "Michael",
+    "meterId": "MTR-52984-8628",
+    "timestamp": "2025-05-04T08:45:00.000Z",
+    "waterUsage": 2300000,
+    "cropType": "Soybeans",
+    "region": "Central District",
+    "normalizedPayload": {
+      "farmName": "Michael",
+      "meterId": "MTR-52984-8628",
+      "timestamp": "2025-05-04T08:45:00.000Z",
+      "waterUsage": 2300000,
+      "cropType": "Soybeans",
+      "region": "Central District"
+    },
+    "hash": "dc0b2e209b4353bcadade4661f75124857a68144387de1aa0410a9031f0cfce9",
+    "status": "anchored",
+    "iotaAnchorReference": "IOTA-1774977256024-DL54TPKJ",
+    "createdAt": "2026-03-31T17:14:15.961Z"
+  },
+  {
+    "proofId": "PROOF-20260331-D1BA",
+    "certificateNumber": "CERT-2026-786163",
+    "farmName": "Alan Grillo",
+    "meterId": "MTR-588-198-788",
+    "timestamp": "2024-01-31T12:24:00.000Z",
+    "waterUsage": 10000000,
+    "cropType": "Corn",
+    "region": "South Basin",
+    "normalizedPayload": {
+      "farmName": "Alan Grillo",
+      "meterId": "MTR-588-198-788",
+      "timestamp": "2024-01-31T12:24:00.000Z",
+      "waterUsage": 10000000,
+      "cropType": "Corn",
+      "region": "South Basin"
+    },
+    "hash": "c09cda8312291f4f4570e4a402d16da3dac040fbad34ceb0a88d8720b79453fb",
+    "status": "anchored",
+    "iotaAnchorReference": "IOTA-1774974328970-RB0KYQ9V",
+    "createdAt": "2026-03-31T16:25:28.910Z"
+  },
+  {
+    "proofId": "PROOF-20260331-4590",
+    "certificateNumber": "CERT-2026-132974",
+    "farmName": "Hilaria Jesus",
+    "meterId": "MTR-432-257",
+    "timestamp": "2026-03-07T14:45:00.000Z",
+    "waterUsage": 20000,
+    "cropType": "Cotton",
+    "region": "East Plains",
+    "normalizedPayload": {
+      "farmName": "Hilaria Jesus",
+      "meterId": "MTR-432-257",
+      "timestamp": "2026-03-07T14:45:00.000Z",
+      "waterUsage": 20000,
+      "cropType": "Cotton",
+      "region": "East Plains"
+    },
+    "hash": "ed25e98460493a2a6fecf070c1af6578d00d8144783d9a2605ebe175b0e3d753",
+    "status": "anchored",
+    "iotaAnchorReference": "IOTA-1774967998975-B123O17U",
+    "createdAt": "2026-03-31T14:28:04.363Z"
+  }
+]
