@@ -63,8 +63,8 @@ HydroLedger introduces:
 ![Dashboard](./screenshots/Dashboard.png)
 
 ### ⚡ Generate Proof
-![Generate Proof](./screenshots/GenerateProof1.png)
-![Generate Proof 2](./screenshots/GenerateProof2.png)
+![Generate Proof](./screenshots/GerateProof 1.png)
+![Generate Proof 2](./screenshots/GerateProof 2.png)
 
 ### 📄 Proof Result
 ![Proof Result](./screenshots/ProofResult.png)
@@ -79,7 +79,7 @@ HydroLedger introduces:
 
 ## 🏗️ System Architecture
 
-![Architecture](./screenshots/architecture.png)
+![Architecture](./screenshots/HydroLedger_System_Architecture.png)
 
 HydroLedger follows a modular architecture designed for scalability and real-world integration with IoT and blockchain networks.
 
